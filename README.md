@@ -1,5 +1,5 @@
-# MLDS
-This repository contains the accompanying Jupyter notebooks for the book chapter titled "A Tutorial on Machine Learning and Data Science Tools with Python", pp. 435--480, Volume 9605, Lecture Notes in Computer Science, Springer, 2016. ISBN: 978-3-319-50477-3.
+# Machine Learning for Health Informatics Book Chapter Companion Repository
+This repository contains the accompanying Jupyter notebooks for the book chapter titled *A Tutorial on Machine Learning and Data Science Tools with Python*, pp. 435--480, Volume 9605, Lecture Notes in Computer Science, Springer, 2016. ISBN: 978-3-319-50477-3.
 
 See <http://link.springer.com/book/10.1007/978-3-319-50478-0>. 
 
