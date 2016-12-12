@@ -1,5 +1,5 @@
 # Book Chapter Companion Repository
-This repository contains the accompanying Jupyter notebooks for the book chapter titled *A Tutorial on Machine Learning and Data Science Tools with Python*, pp. 435--480, Machine Learning for Health Informatics, Volume 9605, Lecture Notes in Computer Science, Springer, 2016. ISBN: 978-3-319-50477-3.
+This repository contains the accompanying Jupyter notebooks for the book chapter titled *A Tutorial on Machine Learning and Data Science Tools with Python*, pp. 435–480, Machine Learning for Health Informatics, Volume 9605, Lecture Notes in Computer Science, Springer, 2016. ISBN: 978-3-319-50477-3.
 
 See <http://link.springer.com/chapter/10.1007/978-3-319-50478-0_22>. 
 
@@ -8,8 +8,8 @@ The following table indicates which notebook accompanies which section of the bo
 
 | Section | Pages   | Section Title | Notebook                     |
 |---------|---------|---------------|------------------------------|
-| 7.2     | 448-450 | NumPy         | [NumPy.ipynb](NumPy.ipynb)   |
-| 7.3     | 450-456 | Pandas        | [Pandas.ipynb](Pandas.ipynb) |
+| 7.2     | 448–450 | NumPy         | [NumPy.ipynb](NumPy.ipynb)   |
+| 7.3     | 450–456 | Pandas        | [Pandas.ipynb](Pandas.ipynb) |
 
 ## Citing the Book Chapter
 To cite the paper, you can use:
