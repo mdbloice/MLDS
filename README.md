@@ -3,6 +3,15 @@ This repository contains the accompanying Jupyter notebooks for the book chapter
 
 See <http://link.springer.com/chapter/10.1007/978-3-319-50478-0_22>. 
 
+## Notebooks
+The following table indicates which notebook accompanies which section of the book chapter:
+
+| Section | Pages   | Section Title | Notebook     |
+|---------|---------|---------------|--------------|
+| 7.2     | 448-450 | NumPy         | NumPy.ipynb  |
+| 7.3     | 450-456 | Pandas        | Pandas.ipynb |
+
+## Citing the Book Chapter
 To cite the paper, you can use:
 
 ```
