@@ -12,7 +12,7 @@ The following table indicates which notebook accompanies which section of the bo
 | Section | Pages   | Section Title                              | Notebook                     |
 |---------|---------|--------------------------------------------|------------------------------|
 | 7.2     | 448–450 | NumPy                                      | [NumPy.ipynb](NumPy.ipynb)   |
-| 7.3     | 450–456 | Pandas                                     | Not yet live.                |
+| 7.3     | 450–456 | Pandas                                     | [Pandas.ipynb](Pandas.ipynb) |
 | 8       | 456–457 | Data Visualisation and Plotting            | Not yet live.                |
 | 9.2     | 458–462 | Linear Regression                          | Not yet live.                |
 | 9.3     | 462–467 | Non-Linear Regression and Model Complexity | Not yet live.                |
