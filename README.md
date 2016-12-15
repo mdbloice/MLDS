@@ -9,17 +9,17 @@ See <http://link.springer.com/chapter/10.1007/978-3-319-50478-0_22>.
 
 The following table indicates which notebook accompanies which section of the book chapter:
 
-| Section | Pages   | Section Title                              | Notebook                     |
-|---------|---------|--------------------------------------------|------------------------------|
-| 7.2     | 448–450 | NumPy                                      | [NumPy.ipynb](NumPy.ipynb)   |
-| 7.3     | 450–456 | Pandas                                     | [Pandas.ipynb](Pandas.ipynb) |
-| 8       | 456–457 | Data Visualisation and Plotting            | Not yet live.                |
-| 9.2     | 458–462 | Linear Regression                          | Not yet live.                |
-| 9.3     | 462–467 | Non-Linear Regression and Model Complexity | Not yet live.                |
-| 9.4     | 467–468 | Clustering                                 | Not yet live.                |
-| 9.5     | 468–469 | Classification                             | Not yet live.                |
-| 9.6     | 470–472 | Dimensionality Reduction                   | Not yet live.                |
-| 10      | 472–476 | Neural Networks and Deep Learning          | Not yet live.                |
+| Section | Pages   | Section Title                              | Notebook                         |
+|---------|---------|--------------------------------------------|----------------------------------|
+| 7.2     | 448–450 | NumPy                                      | [NumPy.ipynb](NumPy.ipynb)       |
+| 7.3     | 450–456 | Pandas                                     | [Pandas.ipynb](Pandas.ipynb)     |
+| 8       | 456–457 | Data Visualisation and Plotting            | [Plotting.ipynb](Plotting.ipynb) |
+| 9.2     | 458–462 | Linear Regression                          | Not yet live.                    |
+| 9.3     | 462–467 | Non-Linear Regression and Model Complexity | Not yet live.                    |
+| 9.4     | 467–468 | Clustering                                 | Not yet live.                    |
+| 9.5     | 468–469 | Classification                             | Not yet live.                    |
+| 9.6     | 470–472 | Dimensionality Reduction                   | Not yet live.                    |
+| 10      | 472–476 | Neural Networks and Deep Learning          | Not yet live.                    |
 
 ## Citing the Book Chapter
 To cite the paper, you can use:
